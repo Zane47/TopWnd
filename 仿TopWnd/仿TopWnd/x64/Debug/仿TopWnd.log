@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  仿TopWndDlg.cpp
+d:\baiduyundownload\仿topwnd\仿topwnd\仿topwnddlg.cpp(193): warning C4312: “类型转换”: 从“DWORD”转换到更大的“LPCTSTR”
+d:\baiduyundownload\仿topwnd\仿topwnd\仿topwnddlg.cpp(202): warning C4312: “类型转换”: 从“DWORD”转换到更大的“LPCTSTR”
+d:\baiduyundownload\仿topwnd\仿topwnd\仿topwnddlg.cpp(228): warning C4312: “类型转换”: 从“DWORD”转换到更大的“LPCTSTR”
+  仿TopWnd.cpp
+  正在生成代码...
+  仿TopWnd.vcxproj -> D:\baiduyundownload\仿TopWnd\x64\Debug\仿TopWnd.exe
+  仿TopWnd.vcxproj -> D:\baiduyundownload\仿TopWnd\x64\Debug\仿TopWnd.pdb (Full PDB)
